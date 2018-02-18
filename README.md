@@ -1,5 +1,5 @@
 # flattree
-[![Build Status][travis-img]][travis][![GoDoc][godoc-img]][godoc]
+[![Build Status][travis-img]][travis] [![GoDoc][godoc-img]][godoc]
 
 A series of functions to map a binary tree to a list. A port of [flat-tree][ft] to go. 
 
