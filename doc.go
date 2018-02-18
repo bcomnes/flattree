@@ -15,9 +15,9 @@ This module exposes a series of functions to help you build and maintain this da
 
 See below for a list of additional resources
 
-flat-tree for node: https://github.com/mafintosh/flat-tree
-print-flat-tree: https://github.com/mafintosh/print-flat-tree
-flat-tree for rust: https://github.com/mafintosh/flat-tree-rs
+- flat-tree for node: https://github.com/mafintosh/flat-tree
+- print-flat-tree: https://github.com/mafintosh/print-flat-tree
+- flat-tree for rust: https://github.com/mafintosh/flat-tree-rs
 
 */
 package flattree
