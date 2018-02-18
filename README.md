@@ -1,4 +1,5 @@
 # flattree
+[![GoDoc][godoc-img]][godoc]
 
 A series of functions to map a binary tree to a list. A port of [flat-tree][ft] to go. 
 
@@ -31,8 +32,10 @@ See [API][api] example on godoc.
 - [mafintosh/print-flat-tree][print]: A node cli that can pretty print flat-trees.
 
 [ft]: https://github.com/mafintosh/flat-tree
-[example]: https://godoc.com
-[api]: https://godoc.com
+[godoc]: https://godoc.org/github.com/bcomnes/flattree
+[godoc-img]: https://godoc.org/github.com/bcomnes/flattree?status.svg
+[example]: https://godoc.org/github.com/bcomnes/flattree
+[api]: https://godoc.org/github.com/bcomnes/flattree#pkg-index
 [print]: https://github.com/mafintosh/print-flat-tree
 [rs]: https://github.com/mafintosh/flat-tree-rs
 
