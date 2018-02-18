@@ -13,11 +13,13 @@ You can represent a binary tree in a simple flat list using the following struct
 
 This module exposes a series of functions to help you build and maintain this data structure.
 
-See below for a list of additional resources
+See also
 
-- flat-tree for node: https://github.com/mafintosh/flat-tree
-- print-flat-tree: https://github.com/mafintosh/print-flat-tree
-- flat-tree for rust: https://github.com/mafintosh/flat-tree-rs
+flat-tree for node: https://github.com/mafintosh/flat-tree.
+
+print-flat-tree: https://github.com/mafintosh/print-flat-tree.
+
+flat-tree for rust: https://github.com/mafintosh/flat-tree-rs.
 
 */
 package flattree
