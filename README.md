@@ -28,9 +28,11 @@ See [API][api] example on godoc.
 
 - [mafintosh/flat-tree][ft]: The node module that this was ported from.
 - [mafintosh/flat-tree-rs][rs]: A port of the node module to rust.
-- [mafintosh/flat-tree-printer][print]: A node cli that can pretty print flat-trees.
+- [mafintosh/print-flat-tree][print]: A node cli that can pretty print flat-trees.
 
 [ft]: https://github.com/mafintosh/flat-tree
 [example]: https://godoc.com
 [api]: https://godoc.com
+[print]: https://github.com/mafintosh/print-flat-tree
+[rs]: https://github.com/mafintosh/flat-tree-rs
 
