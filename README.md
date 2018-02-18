@@ -1,5 +1,5 @@
 # flattree
-[![GoDoc][godoc-img]][godoc]
+[![Build Status][travis-img]][travis][![GoDoc][godoc-img]][godoc]
 
 A series of functions to map a binary tree to a list. A port of [flat-tree][ft] to go. 
 
@@ -34,6 +34,8 @@ See [API][api] example on godoc.
 [ft]: https://github.com/mafintosh/flat-tree
 [godoc]: https://godoc.org/github.com/bcomnes/flattree
 [godoc-img]: https://godoc.org/github.com/bcomnes/flattree?status.svg
+[travis]: https://travis-ci.org/bcomnes/flattree
+[travis-img]: https://travis-ci.org/bcomnes/flattree.svg?branch=master
 [example]: https://godoc.org/github.com/bcomnes/flattree
 [api]: https://godoc.org/github.com/bcomnes/flattree#pkg-index
 [print]: https://github.com/mafintosh/print-flat-tree
