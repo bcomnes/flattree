@@ -8,9 +8,11 @@ type Range []uint64
 // FullRoots returns a list of all the full roots (subtrees where all nodes have either 2 or 0 children) `<` index.
 // For example `fullRoots(8)` returns `[3]` since the subtree rooted at `3` spans `0 -> 6` and the tree
 // rooted at `7` has a child located at `9` which is `>= 8`.
-func FullRoots(index uint64, result []uint64) ([]uint64, error) {
-	if (index & 1) == 1 {
-		return nil, errors.New("You can only look up roots for depth(0) blocks")
+func FullRoots(index uint64) []uint64 {
+	var result []uint64
+
+	if (index & 1) != 0 {
+		return result
 	}
 
 	index /= 2
