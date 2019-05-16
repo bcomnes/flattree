@@ -6,7 +6,7 @@ A series of functions to map a binary tree to a list. A port of [flat-tree][ft] 
 ## Install
 
 ```
-dep ensure -add github.com/bcomnes/flattree
+go get github.com/bcomnes/flattree
 ```
 
 ## Usage
