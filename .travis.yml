@@ -1,4 +1,11 @@
+---
 language: go
 
 go:
   - stable
+env:
+  global:
+    - GO111MODULE=on
+    - GOPROXY=https://proxy.golang.org
+install: make deps
+script: make test
